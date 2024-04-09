@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+    <group
+        android:id="@+id/chartline">
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M4.5,20.25a.76.76,0,0,1-.75-.75V4.5a.75.75,0,0,1,1.5,0v15A.76.76,0,0,1,4.5,20.25Z"/>
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M19.5,20.25H4.5a.75.75,0,0,1,0-1.5h15a.75.75,0,0,1,0,1.5Z"/>
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M14,14.75a.74.74,0,0,1-.53-.22L11,12.06,8.53,14.53a.75.75,0,0,1-1.06-1.06l3-3a.75.75,0,0,1,1.06,0L14,12.94l3.47-3.47a.75.75,0,0,1,1.06,1.06l-4,4A.74.74,0,0,1,14,14.75Z"/>
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M18.5,13.84a.76.76,0,0,1-.75-.75V10.25H15a.75.75,0,0,1,0-1.5h3.5a.76.76,0,0,1,.75.75v3.59A.76.76,0,0,1,18.5,13.84Z"/>
+    </group>
+</vector>

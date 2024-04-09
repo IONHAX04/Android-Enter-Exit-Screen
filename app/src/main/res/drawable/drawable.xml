@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+    <group
+        android:id="@+id/wallet">
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M19,7.25h-.25V5A1.76,1.76,0,0,0,17,3.25a.67.67,0,0,0-.24,0l-11.9,4-.11,0-.16,0-.17.06-.14,0-.16.09L4,7.57l-.14.12-.11.1-.12.15a.39.39,0,0,0-.08.1,1.62,1.62,0,0,0-.1.18l-.06.11a1.87,1.87,0,0,0-.07.22.45.45,0,0,1,0,.11,1.87,1.87,0,0,0,0,.34V19A1.76,1.76,0,0,0,5,20.75H19A1.76,1.76,0,0,0,20.75,19V9A1.76,1.76,0,0,0,19,7.25ZM17.08,4.76a.26.26,0,0,1,.17.24V7.25H9.62ZM19.25,19a.25.25,0,0,1-.25.25H5A.25.25,0,0,1,4.75,19V9A.25.25,0,0,1,5,8.75H19a.25.25,0,0,1,.25.25Z"/>
+        <circle
+            android:fillColor="#FFFFFF"
+            android:centerX="16.5"
+            android:centerY="14" />
+    </group>
+</vector>
